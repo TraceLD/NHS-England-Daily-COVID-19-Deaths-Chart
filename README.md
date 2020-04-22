@@ -3,7 +3,7 @@
 
 Python script that shows a chart representing daily deaths from COVID-19 in NHS England regions. 
 
-**How is this different to all the other charts?**
+## How is this different to all the other charts?
 All deaths are recorded against the date of death rather than the date the deaths were announced by Department of Health and Social Care.
 
 ## Source
