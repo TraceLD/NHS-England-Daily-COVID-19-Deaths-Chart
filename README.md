@@ -10,5 +10,5 @@ All deaths are recorded against the date of death rather than the date the death
 https://covid-nhse.develer.co.uk/
 
 ## How to use
-1. Install dependencies by using `pip install -r requirements.txt`.
+1. Install dependencies from `requirements.txt` either globally or by using a virtual environment.
 2. Launch `script.py`.
