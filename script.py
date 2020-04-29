@@ -38,4 +38,7 @@ values = get_values(days_data)
 plot_dates = plt_dates.date2num(dates)
 
 plt.plot_date(plot_dates, values, 'b-')
+plt.title("NHS England Daily COVID-19 Deaths")
+plt.xlabel("Time")
+plt.ylabel("Daily deaths")
 plt.show()
